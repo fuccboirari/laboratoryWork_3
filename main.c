@@ -9,7 +9,7 @@ int main(void)
 	double eps;
 	double r;
 
-	for (;;)
+	while (1)
 	{
 		system("cls");
 		printf("1 - Task1\n2 - Task2\n3 - Task3\n4 - Task4\n5 - Task5\n6 - Exit\r\n");

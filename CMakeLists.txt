@@ -4,6 +4,6 @@
 cmake_minimum_required (VERSION 3.8)
 
 # Добавьте источник в исполняемый файл этого проекта.
-add_executable (laboratoryWork_3 "main.c" "func.h" "task1_for.c" "task2_for.c" "task3_for.c" "task4_for.c" "task5_for.c")
+add_executable (laboratoryWork_3 "main.c" "func.h" "task1_while.c" "task2_while.c" "task3_while.c" "task4_while.c" "task5_while.c")
 
 # TODO: Добавьте тесты и целевые объекты, если это необходимо.
